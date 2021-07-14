@@ -1,0 +1,11 @@
+#bgimg
+{
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 10px ;
+    border: 2px solid blue;
+    box-shadow: 2px 3px 4px gray;
+    margin-top: 20px;
+}
